@@ -2,16 +2,16 @@
 An attempt to production ready version of fizzbuzz
 
 ### Feature wishlist
-[_] Pluggable Implementation
-[_] Pluugable Notifier
-[_] HTTP API
-[_] SSL/TLS encryption
-[_] gRPC API
-[_] RabbitMQ integration
-[_] Monitoring - metrics
-[_] Monitoring - tracing
-[_] Integration test
-[_] Code of Conduct
+[ ] Pluggable Implementation
+[ ] Pluugable Notifier
+[ ] HTTP API
+[ ] SSL/TLS encryption
+[ ] gRPC API
+[ ] RabbitMQ integration
+[ ] Monitoring - metrics
+[ ] Monitoring - tracing
+[ ] Integration test
+[ ] Code of Conduct
 
 ### License
 © 2018 Nattapong Amornbunchornvej all right reserved
